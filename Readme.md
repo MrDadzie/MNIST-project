@@ -8,5 +8,16 @@
 |Class Non 5      |0.26 |  0.28     | 0.27    | 27105
 
 
+## Project Description
+*Main stages:
 
+- Fetch Data from MNIST
+
+- Data Splitting
+
+- Feature engineering using Shift function
+
+- Data Training and validation
+
+- Data Testing and model evaluation
  
