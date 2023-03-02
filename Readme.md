@@ -19,5 +19,7 @@
 
 - Data Training and validation
 
-- Data Testing and model evaluation
- 
+- Data Testing and model evaluation.
+
+## Author
+Mr. Dadzie
